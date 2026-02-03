@@ -29,10 +29,8 @@ Let's enumerate for policies associated with the Support Role.
 
 ![alt text](https://github.com/Zi-Stonga/IAM-AttachRolePolicy-Priv-Escalation/blob/main/Images/Enumerate.PNG)
 
-![alt text](https://github.com/Zi-Stonga/IAM-AttachRolePolicy-Priv-Escalation/blob/main/Images/AccessNOTSensitiveBucket.PNG)
+![alt text](https://github.com/Zi-Stonga/IAM-AttachRolePolicy-Priv-Escalation/blob/main/Images/AccessingNotSensitiveBucket.PNG)
 
-
-![alt text](https://github.com/Zi-Stonga/IAM-AttachRolePolicy-Priv-Escalation/blob/main/Images/AccessNOTSensitiveBucket.PNG)
 
 
 The Support Role has a policy attached granting S3 data access. We'll assume that role.
@@ -42,5 +40,6 @@ The Support Role has a policy attached granting S3 data access. We'll assume tha
 ![alt text](https://github.com/Zi-Stonga/IAM-AttachRolePolicy-Priv-Escalation/blob/main/Images/TempC.PNG)
 
 ![alt text](https://github.com/Zi-Stonga/IAM-AttachRolePolicy-Priv-Escalation/blob/main/Images/Bucket_contents.PNG)
+
 
 
